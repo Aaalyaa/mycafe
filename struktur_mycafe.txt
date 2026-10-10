@@ -1,0 +1,69 @@
+Folder PATH listing for volume Disk 3
+Volume serial number is BA69-2302
+E:.
+³   addMenu.php
+³   admin-akun.php
+³   admin-dashboard.php
+³   auth.php
+³   cancel-transaksi.php
+³   cetak_struk.php
+³   config.php
+³   detail.php
+³   hapusMenu.php
+³   homepage-kasir.php
+³   index.html
+³   kasir-akun.php
+³   kasir.php
+³   kategori.php
+³   kurangi.php
+³   laporan-transaksi.php
+³   login.php
+³   logout.php
+³   menu.php
+³   simpanTransaksi.php
+³   struktur_mycafe.txt
+³   transaksi-baru.php
+³   transaksi.php
+³   
+ÃÄÄÄcss
+³       style-dashboard.css
+³       style-detail.css
+³       style-form.css
+³       style-homepage.css
+³       style-info.css
+³       style-login.css
+³       style-struk.css
+³       style-table.css
+³       style-transaksi.css
+³       
+ÀÄÄÄfungsi
+    ÃÄÄÄarsip
+    ³       arsip_kasir.php
+    ³       arsip_kategori.php
+    ³       arsip_menu.php
+    ³       proses_arsip_kasir.php
+    ³       proses_arsip_kategori.php
+    ³       proses_arsip_menu.php
+    ³       
+    ÃÄÄÄedit
+    ³       edit_admin.php
+    ³       edit_kasir.php
+    ³       edit_kategori.php
+    ³       edit_menu.php
+    ³       proses_edit_admin.php
+    ³       proses_edit_kasir.php
+    ³       proses_edit_kategori.php
+    ³       proses_edit_menu.php
+    ³       
+    ÃÄÄÄlihat
+    ³       detail_transaksi_admin.php
+    ³       detail_transaksi_kasir.php
+    ³       
+    ÀÄÄÄtambah
+            proses_tambah_kasir.php
+            proses_tambah_kategori.php
+            proses_tambah_menu.php
+            tambah_kasir.php
+            tambah_kategori.php
+            tambah_menu.php
+            
